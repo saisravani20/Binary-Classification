@@ -41,7 +41,7 @@ pyplot.legend()
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/89680011/169962698-a18d6282-3c5f-4774-bbdb-59533a54927b.png)
+[image](https://user-images.githubusercontent.com/89680011/169962698-a18d6282-3c5f-4774-bbdb-59533a54927b.png)
 
 
 
